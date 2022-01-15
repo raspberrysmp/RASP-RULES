@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://i.imgur.com/p9kh4Pc.png" width="128px" style="max-width:100%;">
-    <h1>Discord Rules - Team Ujjwal</h1>
+    <h1>Discord Rules - Team MINZO</h1>
 </div>
 
 **#1:** Be respectful to everyone.
@@ -28,8 +28,7 @@
 
 **#12:** **Follow**: - Discord [Terms of Service](https://dis.gd/tos) and [Community Guidelines](https://dis.gd/guidelines).
  
-**#13:** **Ban Appeal**: [Click here to appeal](http://bit.ly/BANappealUjjwal).
- 
-**#14:** **Moderation Guidelines**: [Click here to know more](http://bit.ly/MODactionUjjwal).
+**#13:** **Ban Appeal**: [Click here to appeal](https://forms.gle/oS89acEXy4o7jgcz6).
+
 
 > *Everything doesn't need to be mentioned in rules you need to use common sense as well. We expect all the members to be humble and respectful towards each other as well as welcoming towards the new members.*
