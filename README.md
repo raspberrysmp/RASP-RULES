@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.imgur.com/p9kh4Pc.png" width="128px" style="max-width:100%;">
+    <img src="https://im5.ezgif.com/tmp/ezgif-5-a71ae76bbf.gif" width="128px" style="max-width:100%;">
     <h1>Discord Rules - Team MINZO</h1>
 </div>
 
